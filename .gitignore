@@ -1,1 +1,5 @@
 .DS_Store
+<project_name>.xcodeproj/xcuserdata/
+<project_name>.xcodeproj/project.xcworkspace/xcuserdata/
+*.pyc
+UserInterfaceState.xcuserstate
