@@ -1,5 +1,10 @@
 .DS_Store
+<<<<<<< HEAD
 <project_name>.xcodeproj/xcuserdata/
 <project_name>.xcodeproj/project.xcworkspace/xcuserdata/
 *.pyc
 UserInterfaceState.xcuserstate
+=======
+*.pyc
+UserInterfaceState.xcuserstate
+>>>>>>> origin/master
