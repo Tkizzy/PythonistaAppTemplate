@@ -259,7 +259,11 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 <<<<<<< HEAD
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> origin/master
 =======
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 >>>>>>> origin/master
@@ -302,7 +306,11 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 <<<<<<< HEAD
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> origin/master
 =======
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 >>>>>>> origin/master
